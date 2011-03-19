@@ -24,7 +24,7 @@
 -- Copyright   :  (c) Andy Gill, and the Oregon Graduate Institute of 
 --                    Science and Technology, 1999-2001
 -- License     :  Apache License, Version 2.0 (see the file LICENSE)
--- Maintainer  :  Bjorn Bringert <bjorn@bringert.net>
+-- Maintainer  :  Robin Bate Boerop <robin@bateboerop.name>
 -- Stability   :  experimental
 -- Portability :  portable
 --

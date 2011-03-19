@@ -24,7 +24,7 @@
 --                Science and Technology, 1999-2001,
 --                (c) Bjorn Bringert, 2004-2006
 -- License     :  Apache License, Version 2.0 (see the file LICENSE)
--- Maintainer  :  Bjorn Bringert <bjorn@bringert.net>
+-- Maintainer  :  Robin Bate Boerop <robin@bateboerop.name>
 -- Stability   :  experimental
 -- Portability :  portable
 --

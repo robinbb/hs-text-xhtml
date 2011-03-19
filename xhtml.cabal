@@ -19,8 +19,8 @@
 Name: xhtml
 Version: 3000.2.0.2
 Copyright: Copyright 1999-2011 The Text.XHtml Authors.
-Maintainer: bjorn@bringert.net
-Author: Bjorn Bringert
+Maintainer: Robin Bate Boerop <robin@bateboerop.name>
+Author: The Text.XHtml Authors
 License-file: LICENSE
 build-depends: base >= 4.0 && < 4.4
 Extensions: 
