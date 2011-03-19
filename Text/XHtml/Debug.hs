@@ -1,3 +1,8 @@
+-- Copyright 1999-2011 The Text.XHtml Authors.
+--
+-- Contributors:
+--   Ian Lynagh <igloo@earth.li>
+
 -- | This module contains functions for displaying
 --   HTML as a pretty tree.
 module Text.XHtml.Debug ( HtmlTree(..), treeHtml, treeColors, debugHtml ) where

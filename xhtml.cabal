@@ -1,7 +1,12 @@
+-- Copyright 1999-2011 The Text.XHtml Authors. 
+--
+-- Contributors:
+--   Simon Marlow <marlowsd@gmail.com>
+--   Robin Bate Boerop <robin@bateboerop.name>
+
 Name: xhtml
 Version: 3000.2.0.1
-Copyright: Bjorn Bringert 2004-2006, Andy Gill, and the Oregon Graduate 
-           Institute of Science and Technology, 1999-2001
+Copyright: Copyright 1999-2011 The Text.XHtml Authors.
 Maintainer: bjorn@bringert.net
 Author: Bjorn Bringert
 License: BSD3

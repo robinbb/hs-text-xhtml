@@ -1,3 +1,9 @@
+-- Copyright 1999-2011 Andy Gill and the Oregon Graduate Institute of Science
+--                     and Technology, and Bjorn Bringert
+--
+-- Contributors:
+--   Ian Lynagh <igloo@earth.li>
+
 -- #hide
 
 -----------------------------------------------------------------------------

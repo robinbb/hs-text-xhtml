@@ -1,3 +1,8 @@
+-- Copyright 1999-2011 The Text.XHtml Authors.
+--  
+-- Contributors:
+--   Ian Lynagh <igloo@earth.li>
+
 -- #hide
 
 -----------------------------------------------------------------------------

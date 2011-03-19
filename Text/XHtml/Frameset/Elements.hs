@@ -1,3 +1,5 @@
+-- Copyright 1999-2011 The Text.XHtml Authors.
+
 -- #hide
 
 module Text.XHtml.Frameset.Elements where

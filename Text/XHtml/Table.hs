@@ -1,3 +1,8 @@
+-- Copyright 1999-2011 The Text.XHtml Authors.
+--  
+-- Contributors:
+--   Ian Lynagh <igloo@earth.li>
+
 -- | Table combinators for XHTML.
 module Text.XHtml.Table (HtmlTable, HTMLTABLE(..),
                         (</>), above, (<->), beside, 

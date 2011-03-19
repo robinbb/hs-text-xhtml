@@ -1,3 +1,6 @@
+-- Copyright 1999-2006 Andy Gill and the Oregon Graduate Institute of Science
+--                     and Technology, and Bjorn Bringert
+
 -----------------------------------------------------------------------------
 -- |
 -- Module      :  Text.XHtml
